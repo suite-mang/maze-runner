@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Compiled output
+**/out/
+
+# IntelliJ IDEA
+.idea/
+
+# Test artifacts left by the app
+test_maze.txt

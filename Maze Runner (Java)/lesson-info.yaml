@@ -1,0 +1,6 @@
+type: framework
+content:
+  - Display a maze
+  - Maze generator
+  - Saved and loaded
+  - A way out

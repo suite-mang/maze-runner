@@ -1,0 +1,19 @@
+type: hyperskill
+title: Maze Runner (Java)
+language: English
+summary: "<p>Mazes are amazing: keep running, find the exit if you can! If you are\
+  \ not too happy about getting stuck in the actual maze, you can entertain yourself\
+  \ with a virtual one. In this project, you will write a program that generates mazes\
+  \ and looks for a way out.<strong> </strong>You will practice concepts frequently\
+  \ tested in technical interviews at top tech companies.</p>"
+programming_language: Java
+programming_language_version: 11
+content:
+  - Maze Runner (Java)
+additional_files:
+  - name: build.gradle
+    visible: true
+  - name: settings.gradle
+    visible: true
+mode: Study
+yaml_version: 5

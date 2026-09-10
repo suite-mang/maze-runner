@@ -1,0 +1,11 @@
+type: edu
+files:
+  - name: src/maze/Main.java
+    visible: true
+    learner_created: false
+  - name: test/MazeRunnerTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/47/stages/251/implement#comment
+status: Solved
+record: -1
